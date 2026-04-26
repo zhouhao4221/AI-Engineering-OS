@@ -57,6 +57,39 @@
 
 ---
 
+## 提示使用流程
+
+各提示之间存在输入输出关系，典型使用链如下：
+
+```
+需求结构化 → 架构设计 → 代码生成 / 重构 → PR 审查
+```
+
+| 提示 | 输入来源 | 输出去向 |
+|------|---------|---------|
+| requirement-structuring | 原始需求（文字/会议记录） | 结构化需求文档 → 作为架构设计的输入 |
+| architecture-design | 结构化需求 + 系统约束 | 架构选项 → 人工决策后作为代码生成的约束 |
+| code-generation | 接口定义 + 架构决策 | 实现代码初稿 → 进入审查流程 |
+| refactoring | 已有代码 + 重构目标 | 重构后代码 → 进入审查流程 |
+| pr-review | 代码变更 diff | 结构化审查意见 → 人工确认后合并 |
+
+---
+
+## 当前提示清单
+
+| 文件 | 用途 | 版本 |
+|------|------|------|
+| [templates/prompt-template.md](templates/prompt-template.md) | 创建新提示的起始框架 | v1.0 |
+| [code/code-generation.md](code/code-generation.md) | 根据接口定义生成实现代码 | v1.1 |
+| [code/refactoring.md](code/refactoring.md) | 在不改变行为的前提下重构代码结构 | v1.0 |
+| [code/test-generation.md](code/test-generation.md) | 为已有或新生成的代码编写测试用例 | v1.0 |
+| [code/error-diagnosis.md](code/error-diagnosis.md) | 分析错误根本原因并给出修复方向 | v1.0 |
+| [design/architecture-design.md](design/architecture-design.md) | 生成架构设计选项供人工决策 | v1.0 |
+| [review/pr-review.md](review/pr-review.md) | PR 初轮 AI 审查，生成结构化意见 | v1.2 |
+| [workflow/requirement-structuring.md](workflow/requirement-structuring.md) | 将模糊需求转化为结构化输入 | v1.1 |
+
+---
+
 ## 规则
 
 - 提示通过 git 进行版本控制 — 每次修改必须附带原因提交
