@@ -125,4 +125,3 @@ function applyBusinessDiscountRules(order: Order): Order { ... }
 | [ui-design-with-ai.md](ui-design-with-ai.md) | AI 辅助 UI 设计风格学习与项目设计资产管理方法 |
 | [ui-style-guide.md](ui-style-guide.md) | UI 风格指南模板（色彩、字体、间距、圆角、动效等设计基准） |
 | [design-decisions.md](design-decisions.md) | 设计决策日志，记录重要 UI/UX 决策的背景、选项与原因 |
-| [ai-design-prompt.md](ai-design-prompt.md) | AI 生成 UI 时的提示模板，含基础上下文和常用场景 |
