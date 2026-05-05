@@ -124,3 +124,4 @@ function applyBusinessDiscountRules(order: Order): Order { ... }
 | [domain-knowledge-layer.md](domain-knowledge-layer.md) | 领域知识层的定义与三类构成（产品需求、工程规约、领域规约），以及如何注入 Skill |
 | [ui-design-with-ai.md](ui-design-with-ai.md) | AI 辅助 UI 设计风格学习与项目设计资产管理方法 |
 | [ui-style-guide.md](ui-style-guide.md) | UI 风格指南模板（色彩、字体、间距、圆角、动效等设计基准） |
+| [design-decisions.md](design-decisions.md) | 设计决策日志，记录重要 UI/UX 决策的背景、选项与原因 |
