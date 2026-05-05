@@ -85,7 +85,7 @@
 | [code/test-generation.md](code/test-generation.md) | 为已有或新生成的代码编写测试用例 | v1.0 |
 | [code/error-diagnosis.md](code/error-diagnosis.md) | 分析错误根本原因并给出修复方向 | v1.0 |
 | [design/architecture-design.md](design/architecture-design.md) | 生成架构设计选项供人工决策 | v1.0 |
-| [design/ai-design-prompt.md](design/ai-design-prompt.md) | UI 生成、设计图转译、从零创建设计稿的提示模板 | v1.0 |
+| [design/ai-design-prompt.md](design/ai-design-prompt.md) | UI 生成、设计图转译、从零创建设计稿的多场景模板集合 | v1.0 |
 | [review/pr-review.md](review/pr-review.md) | PR 初轮 AI 审查，生成结构化意见 | v1.2 |
 | [workflow/requirement-structuring.md](workflow/requirement-structuring.md) | 将模糊需求转化为结构化输入 | v1.1 |
 
