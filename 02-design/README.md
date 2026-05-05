@@ -122,3 +122,4 @@ function applyBusinessDiscountRules(order: Order): Order { ... }
 | 文档 | 内容 |
 |------|------|
 | [domain-knowledge-layer.md](domain-knowledge-layer.md) | 领域知识层的定义与三类构成（产品需求、工程规约、领域规约），以及如何注入 Skill |
+| [ui-design-with-ai.md](ui-design-with-ai.md) | AI 辅助 UI 设计风格学习与项目设计资产管理方法 |
