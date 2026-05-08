@@ -47,6 +47,25 @@
 
 ---
 
+## 知识在哪里找
+
+这套体系把知识分散在多个位置。遇到问题时，按下表查找：
+
+| 我想找的 | 去哪里找 |
+|---------|---------|
+| 为什么这样设计、底层逻辑 | `00-principles/`、`01-thinking/` |
+| Skill 怎么写、如何测试 | `01-thinking/skill-oriented-knowledge.md`、`03-build/skill-testing.md` |
+| 上下文怎么管理 | `01-thinking/context-as-constraint.md`、`07-tooling/ai-context-in-project.md` |
+| 领域知识怎么注入 | `02-design/domain-knowledge-layer.md` |
+| 可以直接用的提示模板 | `04-prompt/` |
+| 日常开发流程 | `05-workflow/dev-cycle.md` |
+| 团队角色和分工 | `06-team/roles.md` |
+| 衡量 AI 工程效果 | `08-metrics/` |
+
+**新成员入口**：从 `00-principles/README.md` 开始，再读 `01-thinking/ai-thinking-framework.md`，然后根据角色（开发者 / 设计师 / 团队负责人）选择对应章节。
+
+---
+
 ## 许可证
 
 MIT
