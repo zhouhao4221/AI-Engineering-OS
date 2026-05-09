@@ -22,3 +22,4 @@ AI 驱动工程的思维模型与框架。行动之前如何思考。
 | [ai-thinking-framework.md](ai-thinking-framework.md) | 提示前的四个问题、决策边界、输出评估清单、常见失败模式 |
 | [context-as-constraint.md](context-as-constraint.md) | 上下文为什么是约束而非信息、三类失效模式、实践含义 |
 | [skill-oriented-knowledge.md](skill-oriented-knowledge.md) | Skill 作为可执行知识单元的概念、结构、组合方式与系统架构 |
+| [agent-as-exoskeleton.md](agent-as-exoskeleton.md) | 为什么 agent 是外骨骼而非队友、老板上限决定团队天花板 |
