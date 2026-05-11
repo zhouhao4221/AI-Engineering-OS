@@ -24,3 +24,4 @@ AI 驱动工程的思维模型与框架。行动之前如何思考。
 | [skill-oriented-knowledge.md](skill-oriented-knowledge.md) | Skill 作为可执行知识单元的概念、结构、组合方式与系统架构 |
 | [agent-as-exoskeleton.md](agent-as-exoskeleton.md) | 为什么 agent 是外骨骼而非队友、老板上限决定团队天花板 |
 | [passionate-coding-warning.md](passionate-coding-warning.md) | 激情开发陷阱：为什么 AI 会放大这种失败模式、如何识别和熔断 |
+| [mvp-is-a-draft.md](mvp-is-a-draft.md) | MVP 是草稿而非资产：试错成本结构变化如何改变 MVP 决策逻辑 |
