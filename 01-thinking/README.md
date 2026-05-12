@@ -26,3 +26,4 @@ AI 驱动工程的思维模型与框架。行动之前如何思考。
 | [passionate-coding-warning.md](passionate-coding-warning.md) | 激情开发陷阱：为什么 AI 会放大这种失败模式、如何识别和熔断 |
 | [mvp-is-a-draft.md](mvp-is-a-draft.md) | MVP 是草稿而非资产：试错成本结构变化如何改变 MVP 决策逻辑 |
 | [ai-as-bookworm.md](ai-as-bookworm.md) | AI 是书呆子不是打工人：知识广但无阅历，判断责任永远在人这里 |
+| [judgment-gap.md](judgment-gap.md) | 判断力缺口：看不懂 AI 答案时怎么决策，三步框架让错误可控可纠正 |
