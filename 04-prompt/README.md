@@ -52,6 +52,7 @@
 | 文件 | 任务 |
 |------|------|
 | [prompt-craft.md](prompt-craft.md) | 如何写好提示，以及与 Skill、CLAUDE.md 的协作方式 |
+| [skill-testing.md](skill-testing.md) | 概率性 AI Skill 的验收方法：结构、语义、稳定性、跨模型回归 |
 | [code/code-generation.md](code/code-generation.md) | 根据接口定义生成实现代码 |
 | [code/refactoring.md](code/refactoring.md) | 在不改变行为的前提下重构代码结构 |
 | [code/test-generation.md](code/test-generation.md) | 为代码编写测试用例 |
