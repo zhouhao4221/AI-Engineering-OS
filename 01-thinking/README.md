@@ -28,3 +28,4 @@ AI 驱动工程的思维模型与框架。行动之前如何思考。
 | [ai-as-bookworm.md](ai-as-bookworm.md) | AI 是书呆子不是打工人：知识广但无阅历，判断责任永远在人这里 |
 | [judgment-gap.md](judgment-gap.md) | 判断力缺口：看不懂 AI 答案时怎么决策，三步框架让错误可控可纠正 |
 | [knowledge-into-experience.md](knowledge-into-experience.md) | 知识变经验：项目中的四个积累动作，让判断力可以被传递 |
+| [knowledge-outlasts-people.md](knowledge-outlasts-people.md) | 知识不随人走：AI 工程对人员流动的真正解法，从人依赖到系统依赖 |
